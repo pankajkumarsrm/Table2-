@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -21,8 +20,10 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>Student_Table</h2>
+<h2>
+<center>  Student_Table </center>
 
+</h2>
 <table>
   <tr> 
   <th>Id</th>
