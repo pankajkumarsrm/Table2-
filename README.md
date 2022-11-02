@@ -21,43 +21,50 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Student_Table</h2>
 
 <table>
-  <tr>
-    <th>Company</th>
+  <tr> 
+  <th>Id</th>
+    <th>Name</th>
+    <th>city</th>
     <th>Contact</th>
-    <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>1</td>
+    <td>AMit kumar</td>
+    <td>Delhi</td>
+    <td> 1234567890</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>  2    </td>
+    <td>Ajit Kumar  </td>
+    <td>  Patna</td>
+     <td>    9767438829  </td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td> 3   </td>
+    <td>  Abhay kumar  </td>
+    <td> Mumbai  </td>
+     <td> 9455445564     </td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>     4   </td>
+    <td> Manish kumar  </td>
+    <td> Delhi  </td> 
+    <td>  9678474838   </td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>     5         </td>
+    <td> Krishna Kumar</td>
+     <td> Bhopal   </td>
+      <td>   9687632474         </td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>      6   </td>
+    <td>        Ajay Kumar        </td>
+    <td>Delhi </td>
+     <td>  9674567677    </td>
   </tr>
 </table>
 
