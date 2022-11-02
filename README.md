@@ -2,16 +2,13 @@
 <html>
 <body>
 
-<h1>The input form attribute</h1>
-
-
+<h1>The input user</h1>
 
 <form action="/action_page.php" id="form1">
   <label for="fname">First name:</label>
   <input type="text" id="fname" name="fname"><br><br>
   <input type="submit" value="Submit">
 </form>
-
 
 
 <label for="lname">Last name:</label>
