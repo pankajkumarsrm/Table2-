@@ -21,7 +21,7 @@ tr:nth-child(even) {
 <body>
 
 <h2>
-<center>  Student_Table </center>
+ Student_Table 
 
 </h2>
 <table>
